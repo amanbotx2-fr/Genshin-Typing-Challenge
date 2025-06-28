@@ -1,3 +1,6 @@
+# ⚔️ Genshin Typing Challenge
+
+
 An interactive typing speed test inspired by **Genshin Impact**, featuring quote and paragraph modes, typing sound effects, a glowing virtual keyboard, and themed UI animations.
 
 ## 🌟 Features
