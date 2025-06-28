@@ -108,7 +108,7 @@ inputArea.addEventListener("input", () => {
   }
 });
 
-// 🔊 Typing sound on every keypress
+// Typing sound on every keypress
 inputArea.addEventListener("keydown", () => {
   if (!inputArea.disabled) {
     try {
